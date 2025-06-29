@@ -1,5 +1,5 @@
 <!-- Typing animation intro -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=600&pause=1000&color=0096D6&width=800&lines=FinTech+%7C+ML+%7C+Cybersecurity+%7C+AI+%7C+💻)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=600&pause=1000&color=0096D6&width=800&lines=FinTech+%7C+ML+%7C+AI+%7C+%7C+Cybersecurity+💻)
 
 
 # 👋 Hi, I'm Nihal!
