@@ -1,5 +1,5 @@
 <!-- Typing animation intro -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=600&pause=1000&color=4169E1&width=800&lines=FinTech+%7C+ML+%7C+Cybersecurity+%7C+AI+%7C+💻)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=600&pause=1000&color=0096D6&width=800&lines=FinTech+%7C+ML+%7C+Cybersecurity+%7C+AI+%7C+💻)
 
 
 # 👋 Hi, I'm Nihal!
@@ -26,7 +26,7 @@
 ---
 ### 📊 GitHub Stats
 
-![Nihal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=n1halshah&show_icons=true&theme=radical) <br/>
+![Nihal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=n1halshah&show_icons=true&theme=prussian) <br/>
 
 ---
 ### 🔗 Connect with Me
